@@ -1,0 +1,55 @@
+/* .mobimage{
+    height: 400px;
+} */
+/* .row{
+    padding: 100px;
+    height: 100vh;
+} */
+.mob-green{
+    width: 100%;
+    height: 84vh;
+}
+.hcolor{
+color: green;
+}
+.text-banner{
+    padding: 163px 146px;
+}
+/* .txt-abt-us{
+    padding: 163px 116px;
+} */
+.text-abtus{
+    padding: 163px 116px;
+}
+.fdmny{
+    padding: 210px 80px;
+}
+.whitemobile{
+    position: relative;
+    left: 90px;
+    width: 300px;
+    height: 80vh;
+}
+.blackmobile{
+    width: 300px;
+    height: 70vh;
+}
+.willimage{
+    border-radius: 30px;
+}
+/* .flrimg{
+width: 150px;
+height: 100%;
+} */
+#banner5{
+    background-image: url(images/banner-new.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.bannermargin{
+    margin: auto;
+    width: 100%;
+}
